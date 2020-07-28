@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there! I'm Lucas!
 
-<!--
-**lucaspetry/lucaspetry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasmaypetry)](https://www.linkedin.com/in/lucasmaypetry)
+[![Scholar Badge](https://img.shields.io/badge/-Scholar-gray?logo=Google&logoColor=white&link=https://scholar.google.com/citations?user=nKGT_csAAAAJ)](https://scholar.google.com/citations?user=nKGT_csAAAAJ)
+[![Researchgate Badge](https://img.shields.io/badge/-ResearchGate-0cb?logo=Researchgate&logoColor=white&link=https://www.researchgate.net/profile/Lucas_May_Petry)](https://www.researchgate.net/profile/Lucas_May_Petry)
+[![ORCID Badge](https://img.shields.io/badge/-ORCID-green?logo=Orcid&logoColor=white&link=https://orcid.org/0000-0003-1462-4538)](https://orcid.org/0000-0003-1462-4538)
 
-Here are some ideas to get you started:
+I currently work at [Eldorado Research Institute](https://www.eldorado.org.br/) as a **Machine Learning Software Analyst**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My career/research interests include:
+- Computer vision
+- Natural Language Processing (NLP)
+- Geographical Information Science (GIS)
+- Software Development
