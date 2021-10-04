@@ -5,10 +5,10 @@
 [![Researchgate Badge](https://img.shields.io/badge/-ResearchGate-0cb?logo=Researchgate&logoColor=white&link=https://www.researchgate.net/profile/Lucas_May_Petry)](https://www.researchgate.net/profile/Lucas_May_Petry)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-green?logo=Orcid&logoColor=white&link=https://orcid.org/0000-0003-1462-4538)](https://orcid.org/0000-0003-1462-4538)
 
-I currently work at [Eldorado Research Institute](https://www.eldorado.org.br/) as a **Machine Learning Software Analyst**.
+I currently work at [Mercado Livre](https://mercadolivre.com/) as a **Machine Learning Engineer**.
 
 My career/research interests include:
-- Computer vision
-- Natural Language Processing (NLP)
-- Geographical Information Science (GIS)
+- Computer Vision
+- Natural Language Processing
+- Geographical Information Science
 - Software Development
